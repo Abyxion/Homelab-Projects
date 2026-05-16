@@ -4,7 +4,7 @@ Personal homelab documentation — a running record of everything I've built, co
 
 ## About This Project
 
-This server is an old HP laptop running Ubuntu, repurposed into a homelab for hands-on learning in networking, security, and IT. All projects are tailored toward real-world skills and certification prep (CompTIA Network+ and Security+).
+This server is an old HP laptop running Ubuntu, repurposed into a homelab for hands on learning in networking, security, and IT. All projects are tailored toward real-world skills and certification prep (CompTIA Network+ and Security+).
 
 ## Server Info
 
