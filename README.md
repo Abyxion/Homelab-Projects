@@ -44,4 +44,4 @@ This server is an old HP laptop running Ubuntu, repurposed into a homelab for ha
 - osTicket help desk deployment
 - HTTPS for Pi-hole dashboard
 - Port forwarding and NAT/PAT practice
-- Networking tools: `nmap`, `tcpdump`, `netstat`, `ss`
+  
