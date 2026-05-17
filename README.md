@@ -26,6 +26,7 @@ This server is an old HP laptop running Ubuntu, repurposed into a homelab for ha
 | 03 | [UFW Firewall](03-ufw-firewall.md) | Host firewall setup and port management |
 | 04 | [Static IP](04-static-ip.md) | Configuring a static private IP using Netplan |
 | 05 | [Pi-hole](05-pihole.md) | Network-wide DNS sinkhole for ad and tracking blocking |
+| 06 | [Network Tools](06-network-tools.md) | Network analysis, packet capture, and reconnaissance |
 
 ---
 
