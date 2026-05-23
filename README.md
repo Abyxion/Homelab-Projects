@@ -38,7 +38,6 @@ This server is an old HP laptop running Ubuntu, repurposed into a homelab for ha
 ---
 
 ## Future Projects
-- VPN setup
 - KVM/QEMU virtualization with Windows Server 2022 VM
 - Active Directory configuration
 - osTicket help desk deployment
